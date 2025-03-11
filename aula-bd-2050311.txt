@@ -1,6 +1,6 @@
 -- aula de banco de dados
 -- Aula do dia 11/03/2025
 
--- Comando SELECT com WHERE 
+-- Comando SELECT com WHERE CUSTOMIZADO
 
 -- Java
